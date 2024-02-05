@@ -48,12 +48,13 @@ O que é requerido na atividade:
 A nossa arquitetura busca resolver os problemas atuais e otimizar os serviços do nosso cliente
 entregando produtos com maior disponibilidade e escabilidade conforme a demanda da empresa.
 
-## Arquitetura
+## Arquitetura do projeto proposto.
 
 
 
 
 
+![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/7f72b9f7-2122-4e5e-973d-c855929da145)
 
 
 
