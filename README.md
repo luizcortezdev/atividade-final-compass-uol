@@ -88,7 +88,7 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 
 
 ## Orçamento 
-##### Valores inclui custos dos serviços da aws e mão de obra dos desenvolvedores.
+##### Valores inclui custos dos serviços da aws e tempo de serviço.
 Para calcular os serviços da aws usaremos a ferramenta AWS Pricing Calculator que auxilia no planejamento da arquitetura de forma gratuita e ajuda a criar estimativas de custo nos serviços AWS.
 
 
