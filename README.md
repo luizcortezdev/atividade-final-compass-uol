@@ -54,7 +54,7 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 
 
 
-![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/diagramatransparente.svg)
+![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/diagrama.svg)
 
 
 
@@ -103,7 +103,7 @@ O AWS WAF ajuda você a se proteger contra explorações comuns da Web e bots qu
 
 ### Para o Deploy usando ferramentas de práticas Devops.
 
-![pipeline](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/pipetransparente.svg)
+![pipeline](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/pipeline.svg)
 
 
 
