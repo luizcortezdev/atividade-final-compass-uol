@@ -133,51 +133,17 @@ workloads analíticos e bancos de dados para a AWS rapidamente, de forma segura 
 
   
   
-## Cronograma e Prazo de entrega.
- - Carga Horaria 8h diárias em dias úteis
- - Equipe de 3 Desenvolvedor
-   
+## Cronograma 
 
-| Cronograma das atividades |
-| --- |
-- ###### Análise do Projeto 
-  Estudar o projeto ,pesquisar ferramentas e planejar todo o andamento do trabalho e definir os serviços aws serão usados.
-  
-- ###### Reunião de alinhamento com equipe
-  Participar de reunião online com os colegas discutir e atribuir funções e planejar e compartilhar ideias.
-  
-- ###### Arquitetura do projeto
-    Usar ferramentas visuais para a arquitetura e outras para auxiliar no desempelho do projeto.
-  
-- ###### Configuração do ambiente
-  Implementar os serviços selecionados, criar contas , Banco de dados , habilitar serviços de segurança. Usando as boas práticas de congiguração de ambiante de forma segura para proporcional maior agilidade e otimização de tempo.
-  
-- ###### Testes
-  Nesse periodo são realizados testes ultilitário para garantir ao cliente um serviço seguro livre de falha. 
-
-- ###### Implementação
-   Como estágio final da aplicação buscamos atuar de forma coordenada e colaborativa para gerar um produto confiável de integração e implantação contínuas. 
-
-## Previsão para o prazo de entrega. 
-
-| Tempo | Serviço |
-| --- | --- |
-| 3 Dias/24h | Análise do Projeto |
-| 1 Dia/8h | Reunião de alinhamento com equipe |
-| 2 Dias/12h | Arquitetura do projeto |
-| 5 Dias/ 40h | Configuração do ambiente |
-| 2 Dias /12h | Teste |
-| 1 Dia/8h | Implementação |
-
-
-| Tempo | 
-| --- |
-| 104 horas |
-| 13 dias úteis |
+## Prazo de entrega
 
 
 
-## Orçamento 
+## Valores
+![Captura de tela de 2024-02-07 19-33-27](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/a7e0a527-1e70-47bc-9708-5826f7c34643)
+
+
+
 ##### Valores inclui custos dos serviços da aws e tempo de serviço.
 Para calcular os serviços da aws usaremos a ferramenta AWS Pricing Calculator que auxilia no planejamento da arquitetura de forma gratuita e ajuda a criar estimativas de custo nos serviços AWS.
 
