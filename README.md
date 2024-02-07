@@ -123,12 +123,21 @@ Usando recursos disponivel da aws
 
 | Tempo | Serviço |
 | --- | --- |
-|  | Análise do Projeto |
-| | Reunião de alinhamento com equipe |
-|          | Arquitetura do projeto |
-|           | Configuração do ambiente |
-|           | Teste |
-|          | Implementação |
+|24h | Análise do Projeto |
+|4h | Reunião de alinhamento com equipe |
+| 12h | Arquitetura do projeto |
+|   40h | Configuração do ambiente |
+|     8h      | Teste |
+|        8h  | Implementação |
+
+
+| Tempo | 
+| --- |
+| 92 horas |
+| 12 dias úteis |
+
+Com carga horária de 8h diarias e equipe de 3 desenvolvedor.
+
 ## Orçamento 
 
 
