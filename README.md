@@ -54,7 +54,7 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 
 
 
-![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/arquitetura.svg)
+![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/diagramatransparente.svg)
 
 
 
@@ -103,7 +103,7 @@ O AWS WAF ajuda você a se proteger contra explorações comuns da Web e bots qu
 
 ### Para o Deploy usando ferramentas de práticas Devops.
 
-![pipeline](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/7a7f52c2-9f20-42cf-8e26-aede406b27d4)
+![pipeline](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/pipetransparente.svg)
 
 
 
@@ -125,7 +125,7 @@ O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migr
 workloads analíticos e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados.
 
 #### AWS DMS
-![DMS](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/94537d1b-33f5-4664-92e6-7911582a5d96)
+![DMS](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/dms.svg)
 
   
   
