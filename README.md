@@ -59,6 +59,8 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 
 
 #### Serviços AWS utilizados na projeto:
+- 4 instancias ec2 - t3.medium
+  
 - Amazon Route
    O Amazon Route 53 é um serviço da Web de Sistema de Nomes de Domínio (DNS) altamente disponível e escalável.
    O Route 53 conecta as requisições do usuário a aplicações da Internet executadas na AWS ou on-premises.
@@ -74,20 +76,63 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 - Amazon CloudFront
    O Amazon CloudFront é um serviço de rede de entrega de conteúdo (CDN) criado para alta performance, segurança e conveniência do desenvolvedor.
   
-   
-- AWS WAF
-   O AWS WAF ajuda você a se proteger contra explorações comuns da Web e bots que podem afetar a disponibilidade, comprometer a segurança ou consumir recursos excessivos.
  
 - Amazon S3
    O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance líderes do setor. Clientes de todos os portes e setores podem armazenar e proteger qualquer quantidade de dados
   de praticamente qualquer caso de uso, como data lakes, aplicações nativas da nuvem e aplicações móveis.
   
   
-- Amazon RDS
+- Amazon RDS multi az - maquina db.m6gd.large com 8gb de ram
    O Amazon Relational Database Service (Amazon RDS) é uma coleção de serviços gerenciados que facilita a configuração, a operação e a escalabilidade de bancos de dados na nuvem.
 
+- Autoscaling
+   Auto Scaling ajuda a garantir que você tenha o número correto de instâncias do Amazon EC2 disponíveis para lidar com a carga da sua aplicação.
+  
+- EKS - para cluster kubernetes
+   O Amazon Elastic Kubernetes Service (Amazon EKS) é um serviço gerenciado que elimina a necessidade de instalar, operar e manter o seu próprio ambiente de gerenciamento do Kubernetes na Amazon Web Services (AWS).
+  
+- Natgateway
+    
+- CloudWatch
+  Usado para monitorar o autoscaling para verificar se o seu sistema está funcionando conforme o esperado.
+  
+- CloudFormation
+   O Amazon EC2 Auto Scaling é integrado ao AWS CloudFormation, um serviço que ajuda você a modelar e configurar seus recursos da AWS para que você possa gastar menos tempo criando e gerenciando seus recursos e infraestrutura.
+  
+### Segurança
+##### AWS Identity and Access Management (IAM)
+Para segurança da conta as medidas de segurança oferecida pela IAM são: autenticação multifator (MFA) com cada conta,Configure o registro de atividades do usuário e da API com o AWS CloudTrail.Tambem Pode ser usado serviços de segurança gerenciados avançados, como o Amazon Macie, que auxilia na descoberta e na proteção de dados confidenciais armazenados no Amazon S3.
+##### AWS WAF firewall
+O AWS WAF ajuda você a se proteger contra explorações comuns da Web e bots que podem afetar a disponibilidade, comprometer a segurança ou consumir recursos excessivos.
 
+#### Para o Deploy usando ferramentas de práticas Devops.
+Usando recursos disponivel da aws
+- CodeCommit
+   O AWS CodeCommit é um serviço de controle de código-fonte totalmente gerenciado, seguro e altamente escalável que hospeda repositórios privados do Git.
+  
+- CodePipeline
+  O AWS CodePipeline é um serviço totalmente gerenciado de entrega contínua que ajuda a automatizar pipelines de lançamento para oferecer atualizações rápidas e confiáveis de aplicações e infraestruturas.
+  
+- CodeBuild
+  O AWS CodeBuild é um serviço de integração contínua totalmente gerenciado que compila código-fonte, executa testes e produz pacotes de software prontos para implantação.
+
+- ECR - Para repositorios de imagens Docker AWS
+  O Amazon ECR também oferece suporte à criação e ao envio de listas de manifestos do Docker, que são usadas para imagens de multiarquitetura.
+  
+## Cronograma e Prazo de entrega.
+
+| Tempo | Serviço |
+| --- | --- |
+|  | Análise do Projeto |
+| | Reunião de alinhamento com equipe |
+|          | Arquitetura do projeto |
+|           | Configuração do ambiente |
+|           | Teste |
+|          | Implementação |
 ## Orçamento 
+
+
+
 ##### Valores inclui custos dos serviços da aws e tempo de serviço.
 Para calcular os serviços da aws usaremos a ferramenta AWS Pricing Calculator que auxilia no planejamento da arquitetura de forma gratuita e ajuda a criar estimativas de custo nos serviços AWS.
 
