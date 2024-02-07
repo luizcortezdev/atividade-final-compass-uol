@@ -54,7 +54,7 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 
 
 
-![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/7f72b9f7-2122-4e5e-973d-c855929da145)
+![Arquitetura](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/arquitetura.svg)
 
 
 
