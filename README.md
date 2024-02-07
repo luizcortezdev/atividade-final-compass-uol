@@ -64,11 +64,7 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 - Amazon Route
    O Amazon Route 53 é um serviço da Web de Sistema de Nomes de Domínio (DNS) altamente disponível e escalável.
    O Route 53 conecta as requisições do usuário a aplicações da Internet executadas na AWS ou on-premises.
-  </br>
-- AWS DMS
-  O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migração gerenciado que ajuda a mover
-  workloads analíticos e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados.
-  </br> 
+
 - Elastic Load Balancing
    O Elastic Load Balancing (ELB) distribui automaticamente o tráfego de aplicações de entrada entre vários destinos e dispositivos virtuais
    em uma ou mais Zonas de disponibilidade (AZs).
@@ -105,7 +101,12 @@ Para segurança da conta as medidas de segurança oferecida pela IAM são: auten
 ##### AWS WAF firewall
 O AWS WAF ajuda você a se proteger contra explorações comuns da Web e bots que podem afetar a disponibilidade, comprometer a segurança ou consumir recursos excessivos.
 
-#### Para o Deploy usando ferramentas de práticas Devops.
+### Para o Deploy usando ferramentas de práticas Devops.
+
+![pipeline](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/7a7f52c2-9f20-42cf-8e26-aede406b27d4)
+
+
+
 Usando recursos disponivel da aws
 - CodeCommit
    O AWS CodeCommit é um serviço de controle de código-fonte totalmente gerenciado, seguro e altamente escalável que hospeda repositórios privados do Git.
@@ -118,6 +119,15 @@ Usando recursos disponivel da aws
 
 - ECR - Para repositorios de imagens Docker AWS
   O Amazon ECR também oferece suporte à criação e ao envio de listas de manifestos do Docker, que são usadas para imagens de multiarquitetura.
+
+### Para migração de dados
+O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migração gerenciado que ajuda a mover
+workloads analíticos e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados.
+
+#### AWS DMS
+![DMS](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/94537d1b-33f5-4664-92e6-7911582a5d96)
+
+  
   
 ## Cronograma e Prazo de entrega.
  - Carga Horaria 8h diárias em dias úteis
