@@ -100,6 +100,8 @@ entregando produtos com maior disponibilidade e escabilidade conforme a demanda 
 Para segurança da conta as medidas de segurança oferecida pela IAM são: autenticação multifator (MFA) com cada conta,Configure o registro de atividades do usuário e da API com o AWS CloudTrail.Tambem Pode ser usado serviços de segurança gerenciados avançados, como o Amazon Macie, que auxilia na descoberta e na proteção de dados confidenciais armazenados no Amazon S3.
 ##### AWS WAF firewall
 O AWS WAF ajuda você a se proteger contra explorações comuns da Web e bots que podem afetar a disponibilidade, comprometer a segurança ou consumir recursos excessivos.
+#### Security group
+Um grupo de segurança atua como firewall virtual para as instâncias do EC2 visando controlar o tráfego de entrada e de saída. As regras de entrada controlam o tráfego de entrada para a instância e as regras de saída controlam o tráfego de saída da instância. 
 ### Segurança no Backup de dados
 O Amazon RDS cria e salva backups automáticos da instância de banco de dados ou do cluster de banco de dados multi-AZ durante a janela de backup da instância de banco de dados. O RDS cria um snapshot do volume de armazenamento da instância de banco de dados, fazendo o backup de toda a instância de banco de dados e não apenas dos bancos de dados individuais. O RDS salva os backups automatizados da instância de banco de dados de acordo com o período de retenção de backup especificado. Se necessário, você poderá recuperar a instância de banco de dados para qualquer ponto no tempo durante o período de retenção de backup.
 
@@ -107,7 +109,8 @@ O Amazon RDS cria e salva backups automáticos da instância de banco de dados o
 
 ### Para o Deploy usando ferramentas de práticas Devops.
 
-![pipeline](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/pipeline.svg)
+![Captura de tela de 2024-02-08 15-57-43](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/65ac55b0-d1e7-4ba0-8568-a3b5bdc55752)
+
 
 
 
@@ -129,13 +132,15 @@ O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migr
 workloads analíticos e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados.
 
 #### AWS DMS
-![DMS](https://github.com/luizcortezdev/atividade-final-compass-uol/blob/main/dms.svg)
+![Captura de tela de 2024-02-08 16-01-28](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/7b893456-56dd-41b5-903c-8abc515bfb27)
+
 
   
   
 ## Cronograma 
 
-## Prazo de entrega
+![Captura de tela de 2024-02-08 15-56-33](https://github.com/luizcortezdev/atividade-final-compass-uol/assets/138727208/897dcc0f-763e-46ce-9524-031b7541e02c)
+
 
 
 
